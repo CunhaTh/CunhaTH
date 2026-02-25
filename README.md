@@ -1,5 +1,5 @@
 <h1 align="center">Thiago Gomes</h1>
-<h3 align="center">Mobile Developer | Flutter Specialist | Building Scalable Apps</h3>
+<h3 align="center">Flutter Developer | Mobile & Front-End Web | Dart | JavaScript | REST APIs Apps</h3>
 
 <p align="center">
 I build high-performance mobile applications using Flutter and modern web technologies.
