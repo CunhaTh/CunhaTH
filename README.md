@@ -63,7 +63,11 @@ Full-cycle development (architecture → UI → backend integration → deployme
 Flutter · Dart · REST APIs · PostgreSQL
 
 **Platforms:**
-- 📲 Mobile: https://apps.apple.com/br/app/comppare/id6754766533
+
+- 📲 Mobile:
+       ios - https://lnkd.in/dBt789Vr
+       android - https://lnkd.in/dyX5K94w
+
 - 🌐 Web: https://comppare.com.br/
 
 ---
